@@ -1,6 +1,7 @@
 # hexo搭建个人博客详细步骤
+###
 
-### hexo 的命令操作
+ ## hexo 的命令操作
 
 * 使用以下命令安装hexo(ps：以下命令中的$符号只为了让教程和实际看起来一致，实际输入命令只需输入$后面的命令即可) 
   ```markdown
@@ -227,18 +228,18 @@
   ![名称](http://i1.buimg.com/c3fb1abf23248817s.png)
   
   
+  *
+    * 如果想新建博文 在你存放的博客目录下   `hexo n "新建博客的名字"`
   
-  * 如果想新建博文 在你存放的博客目录下   `hexo n "新建博客的名字"`
-  
-  * 会在 `D:\Users\BokeGitHub\houshuai.github.io\blog\nodejs-hexo\source\_posts` （这是我的目录，你的目录实在；—/你的博客文件\source_posts） 
+    * 会在 `D:\Users\BokeGitHub\houshuai.github.io\blog\nodejs-hexo\source\_posts` （这是我的目录，你的目录实在；—/你的博客文件\source_posts） 
  
-  * 然后用notepad+++打开编辑（这里不推荐用window商城里的MarkDownPaid进行编辑，因为会出现博客界面排版问题）
-
-  * 这里是正文，用markdown写，你可以选择写一段显示在首页的简介后，加上
+    * 然后用notepad+++打开编辑（这里不推荐用window商城里的MarkDownPaid进行编辑，因为会出现博客界面排版问题）
   
-  * 在之前的内容会显示在首页，之后的内容会被隐藏，当游客点击Read more才能看到。“`
+    * 这里是正文，用markdown写，你可以选择写一段显示在首页的简介后，加上
   
-  *  写完文章后，你可以使用 
+    * 在之前的内容会显示在首页，之后的内容会被隐藏，当游客点击Read more才能看到。“`
+  
+    *  写完文章后，你可以使用 
     
       1.`$ hexo g`生成静态文件。
      
