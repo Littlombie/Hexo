@@ -1,8 +1,8 @@
 ---
 title: hexo 在github上部署成功
 date: 2016-10-31 18:07:47
-categories: 个人随写
-tags: [hexo,github]
+categories: web
+tags: [hexo,github,web]
 
 ---
 

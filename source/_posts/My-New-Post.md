@@ -4,10 +4,14 @@ date: 2016-10-21 10:59:40
 categories: 个人随写
 tags:
 ---
+   <!-- 标签 方式，要求版本在0.4.5或以上 -->
+ {% centerquote %}一天不独处，我就会变得虚弱。我不以孤独为荣，但我以此为生
+  
+  
+  
+  布考斯基 
+  {% endcenterquote %}
 
-{% blockquote  ————,布考斯基 %}
-一天不独处，我就会变得虚弱。我不以孤独为荣，但我以此为生。
-{% endblockquote %}
 
 <br/>
  {% img [full-image] /images/20140111004002.jpg %}
@@ -18,6 +22,11 @@ tags:
  加油， 每天进步一点，不断努力，终会取得不错的成绩！
  <!-- more -->
  
+
+
+{% blockquote  %}
+
+{% endblockquote %}
 
 
 
